@@ -1,9 +1,7 @@
 # Bursa Malaysia Stock Analysis Using Python
 
 # Overview
-This project analyzes five Bursa Malaysia stocks using Python and real market data obtained from Yahoo Finance. The analysis evaluates recent stock price movements, estimates investment returns based on an RM1,000 capital allocation, performs portfolio screening using pandas, and visualizes stock performance through charts.
-
-The project was developed as part of a business analytics programming exercise to demonstrate data retrieval, data analysis, portfolio evaluation, and financial data visualization using Python.
+This assignment analyzes five Bursa Malaysia stocks using Python and real market data obtained from Yahoo Finance. The analysis evaluates recent stock price movements, estimates investment returns based on an RM1,000 capital allocation, performs portfolio screening using pandas, and visualizes stock performance through charts.It was developed as part of a business analytics programming exercise to demonstrate data retrieval, data analysis, portfolio evaluation, and financial data visualization using Python.
 
 ## Objectives
 * Retrieve Bursa Malaysia stock data using yfinance.
@@ -19,7 +17,6 @@ The project was developed as part of a business analytics programming exercise t
   3. IOI Corporation (1961.KL) - Plantation 
   4. Tenaga Nasional (5347.KL) - Utilities
   5. IHH Healthcare (5225.KL) - Healthcare 
-
 These stocks were selected from different sectors to provide portfolio diversification and allow comparison of performance across industries.
 
 ## Function Used
@@ -31,7 +28,6 @@ These stocks were selected from different sectors to provide portfolio diversifi
 
 ## Project Features
 ### Stock Analysis
-
 For each stock, the program calculates:
 * Yesterday Closing Price
 * Today Closing Price
@@ -61,7 +57,6 @@ Two charts are generated:
 2. Return Percentage Comparison (Bar Chart)
 
 ## Output
-
 The program produces:
 * Stock Analysis DataFrame
 * Portfolio Summary Table
