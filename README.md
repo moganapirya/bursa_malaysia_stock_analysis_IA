@@ -16,7 +16,7 @@ This assignment analyzes five Bursa Malaysia stocks using Python and real market
   2. Press Metal (8869.KL) - Industrial
   3. IOI Corporation (1961.KL) - Plantation 
   4. Tenaga Nasional (5347.KL) - Utilities
-  5. IHH Healthcare (5225.KL) - Healthcare 
+  5. IHH Healthcare (5225.KL) - Healthcare
 These stocks were selected from different sectors to provide portfolio diversification and allow comparison of performance across industries.
 
 ## Function Used
